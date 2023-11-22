@@ -24,6 +24,7 @@ class Persona extends Models
         'password',
         'telefono',
         'direccion',
+        'ciudad',
     ];
 
     /**
